@@ -1,2 +1,2 @@
 # chip-robot
-PC-based mobile robot built in the early 2000s.
+Microcontroller-based mobile robot built in the early 2000s.
